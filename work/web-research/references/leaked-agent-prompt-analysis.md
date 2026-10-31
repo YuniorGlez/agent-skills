@@ -40,4 +40,4 @@ Workflow verificado (8-ago-2026) con el leak de GPT-5.6 Sol en Codex Desktop (el
 ## Caso de referencia
 - Repo: https://github.com/elder-plinius/CL4R1T4S (leaks de system prompts de OpenAI/Google/Anthropic/xAI/Cursor/Devin/Manus...).
 - Archivos Codex Desktop: `OPENAI/Codex_Desktop/5.6-Sol_SystemPrompt.md` + `5.6-Sol_Tools.json`.
-- Copias locales + análisis: `~/projects/agent-bench/gpt56-leak/`.
+- Copias locales + análisis: `~/projects/<analisis>/`.

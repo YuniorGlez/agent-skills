@@ -155,4 +155,4 @@ Patrón B — vídeo + Qwen video (mejor para movimiento): `~/.hermes/scripts/sc
 
 ## Verificación
 - `agent-browser a11y <url> --tags wcag2a,wcag2aa` → counts con violations/passes.
-- Benchmark del spike: `~/projects/agent-bench/browser-spike/` (flows + audits).
+- Benchmark del spike: `~/projects/<bench>/` (flows + audits).
